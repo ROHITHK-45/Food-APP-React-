@@ -1,0 +1,45 @@
+
+.card{
+  max-width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgb(0, 0, 0,0.2);
+  border-radius: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #393e46;
+  
+}
+.name{
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.image{
+  max-width: 100%;
+  height: auto;
+  border-radius: 7px;
+  margin-bottom: 10px;
+}
+
+.details{
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.instructions{
+  padding: 0px;
+  border-radius: 5px;
+  /* color: #adaab0; */
+}
+.ol{
+  margin-left: 0px;
+
+}
+.li{
+  margin: 10px 0px;
+}
+.h2{
+  text-align: center;
+  text-decoration: underline;
+  
+}

@@ -1,0 +1,33 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 50px;
+  border-radius: 10px;
+ 
+}
+.imagecontainer{
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+
+}
+.img{
+  max-width: 100%;
+  height: auto ;
+  border-radius: 20px;
+}
+.namecontainer{
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+}
+.name{
+
+  font-weight: 600;
+}
+.amount{
+  font-weight: bold;
+  margin-top: 10px;
+}
